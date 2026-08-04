@@ -17,3 +17,7 @@ Must be executed from the J: drive, as the Python environment is already configu
 - The Fast Web View optimization must be completed manually by using the Save As function.
 
 Note: 2.vbs supports batch checking of all PDF files in a folder (excluding subfolders). This can be helpful for quickly validating PDF files when an ADaM eCRT package contains a large number of PDFs.
+
+------------------------------------------------
+2026-08-04:              
+The tool may also be supported in the SCE folder once Satori provides Python environment support.
