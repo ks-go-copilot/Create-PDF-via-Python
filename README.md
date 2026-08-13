@@ -1,8 +1,4 @@
-# Create-PDF-via-Python
+1. V1 is ready for use, but it requires a local Python environment.
+2. V2 packages the Python processing workflow from V1 into an executable (.exe), ensuring that any user can run it directly by double-clicking the exe.
 
-Repository layout:
-
-- `V1/` - current stable scripts and documentation
-- `V2/` - upcoming development workspace
-
-Use `V1/` for the existing workflow. New work should continue in `V2/`.
+Note: The V1 code will still be retained for potential code review to validate the processing workflow.
